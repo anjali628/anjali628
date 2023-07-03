@@ -1,6 +1,13 @@
 ### Hi there 👋   This is Anjali 😊
 
+I love to learn new things :)
+
+
+**My Activity**
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anjali628&theme=gruvbox)](https://git.io/streak-stats)
+
+
 
 <!--
 **anjali628/anjali628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
