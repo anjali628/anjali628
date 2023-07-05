@@ -8,10 +8,6 @@ _Welcome to my profile 😊_
 <h3 align="start">  </h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjali628" alt="anjali628" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/anjalibindal" target="blank"><img src="https://img.shields.io/twitter/follow/anjalibindal?logo=twitter&style=for-the-badge" alt="anjalibindal" /></a> </p>
-
 - 👨‍💻 I am a knowledge grabber and love to learn new things [.](.)
 
 - 📫 Reach me at **anjalibindal628@gmail.com**
