@@ -22,8 +22,8 @@ _Welcome to my profile 😊_
 <a href="https://instagram.com/anjali__bindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anjali__bindal" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali628&show_icons=true&locale=en&layout=compact" alt="anjali628" /></p>
-
+**My Used Languages**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali628&show_icons=true&theme=great-gatsby" alt="anjali628" /></p>
 
 **My Github Stats**
 
