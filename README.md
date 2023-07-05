@@ -1,7 +1,5 @@
-
-
 <h1 align="start">Hi 👋, I'm Anjali</h1>
-<h3 align="center">A passionate learner</h3>
+<h3 align="start">A passionate learner</h3>
 
 _Welcome to my profile 😊_
 <div align="start">
@@ -14,7 +12,7 @@ _Welcome to my profile 😊_
 
 - 👨‍💻 I am a knowledge grabber and love to learn new things [.](.)
 
-- 📫 How to reach me **anjalibindal628@gmail.com**
+- 📫 Reach me at **anjalibindal628@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
