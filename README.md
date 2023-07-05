@@ -28,15 +28,10 @@ _Welcome to my profile 😊_
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali628&show_icons=true&locale=en&layout=compact" alt="anjali628" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali628&show_icons=true&locale=en" alt="anjali628" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali628&" alt="anjali628" /></p>
-
 
 **My Github Stats**
 
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali628&show_icons=true&locale=en" alt="anjali628" /></p>
 
 **My Activity**
 
