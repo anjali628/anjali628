@@ -1,5 +1,3 @@
-### Hi there 👋   
-
 <h1 dir="auto"><a id="user-content-anjali" class="anchor" aria-hidden="true" href="#anjali"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>Anjali Bindal</h1>
 
 _Welcome to my profile 😊_
