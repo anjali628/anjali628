@@ -27,7 +27,7 @@ _Welcome to my profile 😊_
 
 **My Github Stats**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali628&show_icons=true&locale=en" alt="anjali628" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali628&&show_icons=true&theme=great-gatsby" alt="anjali628" /></p>
 
 **My Activity**
 
