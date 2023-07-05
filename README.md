@@ -23,11 +23,11 @@ _Welcome to my profile 😊_
 </p>
 
 **My Used Languages**
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali628&show_icons=true&theme=great-gatsby" alt="anjali628" /></p>
+<p><img align="start" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali628&show_icons=true&theme=great-gatsby" alt="anjali628" /></p>
 
 **My Github Stats**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anjali628&&show_icons=true&theme=great-gatsby" alt="anjali628" /></p>
+<p><img align="start" src="https://github-readme-stats.vercel.app/api?username=anjali628&&show_icons=true&theme=great-gatsby" alt="anjali628" /></p>
 
 **My Activity**
 
