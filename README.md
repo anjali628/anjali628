@@ -17,7 +17,7 @@ _Welcome to my profile 😊_
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anjalibindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anjalibindal" height="30" width="40" /></a>
+<a href="https://twitter.com/anjalibindal" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Fsocial-media-icons-the-circle-set%2F48%2Ftwitter_circle-512.png&tbnid=yM4rA3TaKU6_WM&vet=12ahUKEwjs5s3i6_b_AhWyk2MGHTwhCMMQMygBegUIARDoAQ..i&imgrefurl=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F294709%2Fcircle_twitter_icon&docid=yHu7Q9of9_lf3M&w=512&h=512&q=twitter%20icon&ved=2ahUKEwjs5s3i6_b_AhWyk2MGHTwhCMMQMygBegUIARDoAQh" alt="anjalibindal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anjalibindal628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjalibindal628" height="30" width="40" /></a>
 <a href="https://instagram.com/anjali__bindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anjali__bindal" height="30" width="40" /></a>
 </p>
