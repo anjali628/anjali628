@@ -22,14 +22,17 @@ _Welcome to my profile 😊_
 <a href="https://instagram.com/anjali__bindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anjali__bindal" height="30" width="40" /></a>
 </p>
 
-**My Used Languages**
+
+<h3 align="left">My Used Languages</h3>
+
 <p><img align="start" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali628&show_icons=true&theme=great-gatsby" alt="anjali628" /></p>
 
-**My Github Stats**
+
+<h3 align="left">My Github Stats</h3>
 
 <p><img align="start" src="https://github-readme-stats.vercel.app/api?username=anjali628&&show_icons=true&theme=great-gatsby" alt="anjali628" /></p>
 
-**My Activity**
+<h3 align="left">My Activity</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anjali628&theme=gruvbox)](https://git.io/streak-stats)
 
