@@ -17,6 +17,7 @@ _Welcome to my profile :)_
   <img align="start" src="https://skills.thijs.gg/icons?i=java,kotlin,python,c&theme=light"   />
   &nbsp
   <img align="start" src="https://skills.thijs.gg/icons?i=git&theme=light" style="float:left; padding-left:10px" />
+  &nbsp
   <img align="start" src="https://github.com/anjali628/anjali628/assets/64889275/c4d4f284-ff8b-4c0d-9e59-ede5d6bbd24e" alt="anjali628" width="50" height="50" />
   
 </p>
