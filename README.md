@@ -18,9 +18,11 @@ _Welcome to my profile :)_
 <p><img align="start" src="https://github.com/anjali628/anjali628/assets/64889275/c4d4f284-ff8b-4c0d-9e59-ede5d6bbd24e" alt="anjali628" width="50" height="50" /></p>
 
 <h3 align="left">Connect with me:</h3>
-<p><img align="start" src="https://github.com/anjali628/anjali628/assets/64889275/fcc5cd2c-c748-4438-9d3f-d8cbc1877fcc" width="40" height="40" /></p>
-<p><img align="start" src="https://github.com/anjali628/anjali628/assets/64889275/888f3635-2980-4e2e-b2bc-9e9f76e4da77" width="40" height="40"/></p>
-<p><img align="start" src="https://github.com/anjali628/anjali628/assets/64889275/a22a0ef4-be0e-417c-8d04-8258428e62f0" width="40" height="40" /></p>
+<p align="left">
+  <a> <img align="start" src="https://github.com/anjali628/anjali628/assets/64889275/fcc5cd2c-c748-4438-9d3f-d8cbc1877fcc" width="40" height="40" /></a>
+</p>
+  
+
 
 
 <h3 align="left">My Used Languages</h3>
