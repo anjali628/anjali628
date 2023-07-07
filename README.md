@@ -18,12 +18,8 @@ _Welcome to my profile :)_
 <p><img align="start" src="https://github.com/anjali628/anjali628/assets/64889275/c4d4f284-ff8b-4c0d-9e59-ede5d6bbd24e" alt="anjali628" width="50" height="50" /></p>
 
 <h3 align="left">Connect with me:</h3>
-<p>
-  <a href="https://linkedin.com/in/anjalibindal628" target="blank"><img align="center" src="https://github.com/anjali628/anjali628/assets/64889275/095d41a6-38fd-4407-abc8-c2393524b513" alt="anjali__bindal" height="40" width="40" /></a>
-  <a href="https://instagram.com/anjali__bindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anjali__bindal" height="30" width="40" /></a>
-  <a href="https://instagram.com/anjali__bindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anjali__bindal" height="30" width="40" /></a>
-
-  
+<p align="left">
+<a href="https://twitter.com/anjalibindal" target="blank"><img align="center" src="https://github.com/anjali628/anjali628/assets/64889275/0c2de0cf-8819-49f1-80bb-6dcecc53d887" alt="anjalibindal" height="30" width="40" /></a>
 </p>
 
 
