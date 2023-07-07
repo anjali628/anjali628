@@ -19,9 +19,12 @@ _Welcome to my profile :)_
 
 <h3 align="left">Connect with me:</h3>
 <p>
+  <a href="https://linkedin.com/in/anjalibindal628" target="blank"><img align="center" src="https://github.com/anjali628/anjali628/assets/64889275/095d41a6-38fd-4407-abc8-c2393524b513" alt="anjali__bindal" height="30" width="40" /></a>
   <a href="https://instagram.com/anjali__bindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anjali__bindal" height="30" width="40" /></a>
-</p>
+  <a href="https://instagram.com/anjali__bindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anjali__bindal" height="30" width="40" /></a>
 
+  
+</p>
 
 
 <h3 align="left">My Used Languages</h3>
