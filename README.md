@@ -13,7 +13,7 @@ _Welcome to my profile :)_
 - 📫 Reach me at **anjalibindal628@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<p><img align="start" src="https://skills.thijs.gg/icons?i=java,kotlin,git,python,c&theme=light" alt="anjali628" /></p>
+<p><img align="start" src="https://skills.thijs.gg/icons?i=java,kotlin,python,c&theme=light" alt="anjali628" /></p>
 <p><img align="start" src="https://skills.thijs.gg/icons?i=git&theme=light" alt="anjali628" /></p>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:Android_logo_2019_%28stacked%29.svg" alt="android" width="40" height="40"/> </a></p>
 
