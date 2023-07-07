@@ -18,6 +18,10 @@ _Welcome to my profile :)_
 <p><img align="start" src="https://github.com/anjali628/anjali628/assets/64889275/c4d4f284-ff8b-4c0d-9e59-ede5d6bbd24e" alt="anjali628" width="50" height="50" /></p>
 
 <h3 align="left">Connect with me:</h3>
+<p><img align="start" src="https://github.com/anjali628/anjali628/assets/64889275/1e0e031e-e61b-43af-8e35-888221599939" alt="anjali628" /></p>
+<p><img align="start" src="https://github.com/anjali628/anjali628/assets/64889275/e498a502-3642-444f-9084-9726a9f2215b" alt="anjali628" /></p>
+<p><img align="start" src="https://github.com/anjali628/anjali628/assets/64889275/cb85ee5a-ca3b-477b-ae36-ce2fc73b3a90" alt="anjali628" /></p>
+
 <p align="left">
 <a href="https://twitter.com/anjalibindal" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Fsocial-media-icons-the-circle-set%2F48%2Ftwitter_circle-512.png&tbnid=yM4rA3TaKU6_WM&vet=12ahUKEwjs5s3i6_b_AhWyk2MGHTwhCMMQMygBegUIARDoAQ..i&imgrefurl=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F294709%2Fcircle_twitter_icon&docid=yHu7Q9of9_lf3M&w=512&h=512&q=twitter%20icon&ved=2ahUKEwjs5s3i6_b_AhWyk2MGHTwhCMMQMygBegUIARDoAQh" alt="anjalibindal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anjalibindal628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjalibindal628" height="30" width="40" /></a>
