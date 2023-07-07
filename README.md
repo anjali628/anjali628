@@ -15,7 +15,8 @@ _Welcome to my profile :)_
 <h3 align="left">Languages and Tools:</h3>
 <p><img align="start" src="https://skills.thijs.gg/icons?i=java,kotlin,python,c&theme=light" alt="anjali628" /></p>
 <p><img align="start" src="https://skills.thijs.gg/icons?i=git&theme=light" alt="anjali628" /></p>
-<p><img align="start" src="https://www.freepik.com/free-icon/android_15065366.htm#query=android%20logo&position=1&from_view=keyword&track=ais" alt="anjali628" /></p>
+<p><img align="start" src="![android icon](https://github.com/anjali628/anjali628/assets/64889275/c4d4f284-ff8b-4c0d-9e59-ede5d6bbd24e)
+" alt="anjali628" /></p>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:Android_logo_2019_%28stacked%29.svg" alt="android" width="40" height="40"/> </a></p>
 
 <h3 align="left">Connect with me:</h3>
