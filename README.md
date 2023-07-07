@@ -1,5 +1,5 @@
 <h1 align="start">Hi 👋, I'm Anjali</h1>
-<h3 align="start">A passionate learner</h3>
+<h3 align="start">A Passionate Learner</h3>
 
 _Welcome to my profile :)_
 <div align="start">
