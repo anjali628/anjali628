@@ -26,7 +26,7 @@ _Welcome to my profile :)_
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a> <img align="start" src="https://github.com/anjali628/anjali628/assets/64889275/fcc5cd2c-c748-4438-9d3f-d8cbc1877fcc " width="40" height="40" /></a>
-  &nbsp&nbsp&nbsp
+  &nbsp <br><br>
   <a href="https://www.bing.com/search?q=linkedin+login&cvid=1bea2428197a4b97a4e998cfbb5d9037&aqs=edge..69i57.8358j0j1&FORM=ANNTA1&PC=U531">LinkedIn</a>
   <a> <img align="start" src="https://github.com/anjali628/anjali628/assets/64889275/888f3635-2980-4e2e-b2bc-9e9f76e4da77 " width="40" height="40"/> </a>
   &nbsp
