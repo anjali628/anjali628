@@ -28,7 +28,7 @@ _Welcome to my profile :)_
   <a> <img align="start" src="https://github.com/anjali628/anjali628/assets/64889275/fcc5cd2c-c748-4438-9d3f-d8cbc1877fcc " width="40" height="40" /></a>
   &nbsp &nbsp &nbsp &nbsp 
   <a> <img align="start" src="https://github.com/anjali628/anjali628/assets/64889275/888f3635-2980-4e2e-b2bc-9e9f76e4da77 " width="40" height="40"/> </a>
-  &nbsp &nbsp &nbsp &nbsp &nbsp 
+  &nbsp &nbsp &nbsp &nbsp 
   <a> <img align="start" src="https://github.com/anjali628/anjali628/assets/64889275/a22a0ef4-be0e-417c-8d04-8258428e62f0 " width="40" height="40" /></a>
 </p>
 <p>
