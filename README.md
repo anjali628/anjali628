@@ -35,7 +35,7 @@ _Welcome to my profile :)_
     <a href="https://www.bing.com/search?q=linkedin+login&cvid=1bea2428197a4b97a4e998cfbb5d9037&aqs=edge..69i57.8358j0j1&FORM=ANNTA1&PC=U531">LinkedIn</a>
   &nbsp 
   <a href="https://www.bing.com/search?q=linkedin+login&cvid=1bea2428197a4b97a4e998cfbb5d9037&aqs=edge..69i57.8358j0j1&FORM=ANNTA1&PC=U531">Instagram</a>
-  &nbsp @nbsp
+  &nbsp &nbsp
   <a href="https://www.bing.com/search?q=linkedin+login&cvid=1bea2428197a4b97a4e998cfbb5d9037&aqs=edge..69i57.8358j0j1&FORM=ANNTA1&PC=U531">Twitter</a>
 
 </p>
