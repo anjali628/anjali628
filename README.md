@@ -34,7 +34,7 @@ _Welcome to my profile :)_
 <p>
     <a href="https://www.linkedin.com/in/anjalibindal628/">LinkedIn</a>
   &nbsp 
-  <a href="https://www.https://www.linkedin.com/in/anjalibindal628/ing.com/search?q=linkedin+login&cvid=1bea2428197a4b97a4e998cfbb5d9037&aqs=edge..69i57.8358j0j1&FORM=ANNTA1&PC=U531">Instagram</a>
+  <a href="https://www.instagram.com/anjali__bindal/?next=%2F&hl=en">Instagram</a>
   &nbsp
   <a href="https://www.bing.com/search?q=linkedin+login&cvid=1bea2428197a4b97a4e998cfbb5d9037&aqs=edge..69i57.8358j0j1&FORM=ANNTA1&PC=U531">Twitter</a>
 
