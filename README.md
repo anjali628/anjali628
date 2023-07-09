@@ -36,7 +36,7 @@ _Welcome to my profile :)_
   &nbsp 
   <a href="https://www.instagram.com/anjali__bindal/?next=%2F&hl=en">Instagram</a>
   &nbsp
-  <a href="https://www.bing.com/search?q=linkedin+login&cvid=1bea2428197a4b97a4e998cfbb5d9037&aqs=edge..69i57.8358j0j1&FORM=ANNTA1&PC=U531">Twitter</a>
+  <a href="https://twitter.com/AnjaliBindal">Twitter</a>
 
 </p>
   
