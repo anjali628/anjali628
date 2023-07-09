@@ -32,9 +32,9 @@ _Welcome to my profile :)_
   <a> <img align="start" src="https://github.com/anjali628/anjali628/assets/64889275/a22a0ef4-be0e-417c-8d04-8258428e62f0 " width="40" height="40" /></a>
 </p>
 <p>
-    <a href="https://www.bing.com/search?q=linkedin+login&cvid=1bea2428197a4b97a4e998cfbb5d9037&aqs=edge..69i57.8358j0j1&FORM=ANNTA1&PC=U531">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/anjalibindal628/">LinkedIn</a>
   &nbsp 
-  <a href="https://www.bing.com/search?q=linkedin+login&cvid=1bea2428197a4b97a4e998cfbb5d9037&aqs=edge..69i57.8358j0j1&FORM=ANNTA1&PC=U531">Instagram</a>
+  <a href="https://www.https://www.linkedin.com/in/anjalibindal628/ing.com/search?q=linkedin+login&cvid=1bea2428197a4b97a4e998cfbb5d9037&aqs=edge..69i57.8358j0j1&FORM=ANNTA1&PC=U531">Instagram</a>
   &nbsp
   <a href="https://www.bing.com/search?q=linkedin+login&cvid=1bea2428197a4b97a4e998cfbb5d9037&aqs=edge..69i57.8358j0j1&FORM=ANNTA1&PC=U531">Twitter</a>
 
