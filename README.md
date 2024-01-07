@@ -2,11 +2,6 @@
 <h3 align="start">A Passionate Learner</h3>
 
 _Welcome to my profile :)_
-<div align="start">
-  <img src="" width="200" height="150"/>
-</div>
-<h3 align="start">  </h3>
-
 
 - 👨‍💻 I am a knowledge grabber and love to learn new things [.](.)
 
